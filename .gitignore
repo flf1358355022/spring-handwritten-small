@@ -1,0 +1,10 @@
+.project
+.settings/
+.classpath
+target/
+.DS_store
+**/*/.DS_store
+*.iml
+.idea
+server/target/
+server/src/test/
